@@ -4,7 +4,7 @@ title: "Ludovic Oudin"
 about:
   id: hero-heading
   template: solana
-  image: "/files/avatar.jpg"
+  image: "/ludovic_oudin.github.io/files/avatar.jpg"
   links:
     - icon: envelope
       text: E-mail Me
